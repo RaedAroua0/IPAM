@@ -4,6 +4,14 @@ Plateforme simplifiée de gestion d'adresses IP développée dans le cadre de la
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75f01411-7467-440a-9a2d-2d16c6b8aad0" alt="IPAM Screenshot" width="1000">
+</p>
+
+<p align="center">
+  <em>Interface principale de la plateforme IPAM</em>
+</p>
+
 ## Sommaire
 
 1. [Présentation du projet](#1-présentation-du-projet)
